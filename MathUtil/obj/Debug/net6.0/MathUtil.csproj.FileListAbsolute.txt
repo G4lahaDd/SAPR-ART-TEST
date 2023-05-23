@@ -1,0 +1,12 @@
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\bin\Debug\net6.0\MathUtil.deps.json
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\bin\Debug\net6.0\MathUtil.dll
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\bin\Debug\net6.0\MathUtil.pdb
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\MathUtil.csproj.AssemblyReference.cache
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\MathUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\MathUtil.AssemblyInfoInputs.cache
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\MathUtil.AssemblyInfo.cs
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\MathUtil.csproj.CoreCompileInputs.cache
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\MathUtil.dll
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\refint\MathUtil.dll
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\MathUtil.pdb
+C:\Ilya\BNTU\тестирование\SAPR-ART\MathUtil\obj\Debug\net6.0\ref\MathUtil.dll
